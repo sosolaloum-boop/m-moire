@@ -202,7 +202,7 @@ Une ligne par item et par société. Un même fichier peut couvrir plusieurs ite
 
   Faire figurer entre parenthèses le nom exact du fichier correspondant.
   Exemple : Communiqué (ALPHA_Statuts_MAJ_22092001.pdf)
-- **Commentaire** : Préciser ce qui manque en cas d’état Communiqué partiellement, Communiqué – non conforme, Communiqué partiellement – non conforme : exercice, société, annexe, daté de plus d’un mois, non à jour, non signé, illisible, etc.)
+- **Commentaire** : Préciser ce qui manque en cas d’état Communiqué partiellement, Communiqué – non conforme, Communiqué partiellement – non conforme : exercice, société, annexe, daté de plus d’un mois, non à jour, non signé, illisible, etc.
 </colonnes_livrable_1>
 </etapes_0_et_1>
 
@@ -455,7 +455,7 @@ Vérifie chacun des points suivants et corrige avant de répondre :
 Ta réponse est structurée ainsi, sans autre développement :
 
 1. Périmètre retenu et date de référence (tableau de l'étape 0) ; paramètres de la section 0 non renseignés et règle appliquée.
-2. Fichiers produits ou, à défaut, arrête-toi après l'étape 2, société par société.
+2. Fichiers produits.
 3. Points de vigilance pour l'avocat réviseur (cinq au maximum) : incohérences non résolues, documents manquants majeurs, informations de confiance « Faible ».
 4. Le cas échéant : « SUITE À PRODUIRE : … ».
 </message_restitution>
@@ -614,7 +614,7 @@ Les numéros de slides sont ceux du modèle d'origine ; ils évoluent après dup
 | 6 / 11 | Capital social | Bloc « Capital social » ; C1 à C5 ; RL-09, RL-12 |
 | 7 / 12 | Président | Bloc « Gouvernance — Président » ; C7 |
 | 8 / 13 | Compte-courant d'associés | Compte courant d'associé ; RL-11, RL-13 ; C10 |
-| 8 / 13 | Convention intra-groupe | Animation / Conventions intragroupes ; RL-11, RL-13, |
+| 8 / 13 | Convention intra-groupe | Animation / Conventions intragroupes ; RL-11, RL-13 |
 | 8 / 13 | Conventions réglementées | RL-08, RL-11, RL-07 ; C10 |
 </tableau_B2>
 </annexe_B_correspondances>
